@@ -13,3 +13,4 @@ Bila Hafr is a smart mobile application project designed to streamline and autom
 ## Technologies Used (التقنيات المستخدمة)
 - Software Engineering & Mobile App Design Principles.
 - Integrated with operational workflows learned during the co-op training at Hail Municipality.
+<img width="1356" height="729" alt="image" src="https://github.com/user-attachments/assets/e54db844-93a2-4c9a-a43c-72114b1a3170" />
